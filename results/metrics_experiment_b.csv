@@ -1,0 +1,4 @@
+Pendekatan,Accuracy,Precision (macro),Recall (macro),F1 (macro),Recall (negatif),Output invalid
+Model Klasik (TF-IDF + LinearSVC),0.7,0.702020202020202,0.7,0.6992481203007519,0.65,0
+Gemini (zero-shot),1.0,1.0,1.0,1.0,1.0,0
+Gemini (few-shot),1.0,1.0,1.0,1.0,1.0,0

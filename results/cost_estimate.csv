@@ -1,0 +1,3 @@
+Pendekatan,Token input (rata-rata),Token output (rata-rata),Biaya per 1.000 ulasan (USD),"Biaya per 100,000 ulasan/bulan (USD)"
+Gemini (zero-shot),132.525,2.0,0.0140525,1.40525
+Gemini (few-shot),243.525,2.0,0.025152500000000005,2.5152500000000004

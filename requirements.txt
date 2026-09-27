@@ -1,0 +1,21 @@
+# AI Model Experiment & Evaluation — Sentiment Analysis
+# Python 3.10+
+
+# Data handling
+pandas==2.3.3
+numpy==2.2.6
+
+# Pendekatan 1 — model klasik
+scikit-learn==1.7.2
+
+# Pendekatan 2 — LLM API
+google-genai==2.25.0
+python-dotenv==1.2.3
+
+# Visualisasi (confusion matrix & chart perbandingan)
+matplotlib==3.10.9
+
+# Menjalankan notebook
+jupyter==1.1.1
+notebook==7.6.3
+ipykernel==7.3.0

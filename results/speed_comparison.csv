@@ -1,0 +1,4 @@
+Pendekatan,Latency per ulasan (ms),Throughput (ulasan/detik),Waktu untuk 10.000 ulasan
+Model Klasik,0.002101050040437258,475952.49078022246,0.0 detik
+Gemini (zero-shot),5268.975816699958,0.18979020492569193,14.6 jam (serial)
+Gemini (few-shot),4690.17928014996,0.21321146597364757,13.0 jam (serial)
